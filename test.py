@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
 def test();
-    print "h"
+    print "h34534"
 
 test()
